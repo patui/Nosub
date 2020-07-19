@@ -2,7 +2,7 @@
 
 ---
 - The Software is Developed with C++
-- Dependent Third Party Libraries:
+- Third Party Libraries Dependent:
 ---
 
 - QT 		      A Cross Platform C + + GUI Library；
