@@ -1,4 +1,4 @@
-# Nosub Subtitle Editor
+# Nosub Subtitle Editor[(DownLoad)](https://github.com/patui/Nosub/releases)
 
 ---
 - The Software is Developed with C++
@@ -12,9 +12,9 @@
 - SDL2            Multimedia Rendering Library；
 - SDL2-ttf        Subtitle Rendering Library；
 - freetype        Font Rendering Library;(SDL2-ttf Dependent)
-- libpng          Png Image Library;(SDL2-ttf Dependent)
-- spdlog          Logging Library;
-- fmt             String Format Library;(spdlog Dependent)
+- Libpng          Png Image Library;(SDL2-ttf Dependent)
+- Spdlog          Logging Library;
+- Fmt             String Format Library;(spdlog Dependent)
 
 ---
 
