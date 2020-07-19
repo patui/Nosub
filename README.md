@@ -1,38 +1,27 @@
-# Nosub字幕编辑软件
-
-一个纯小白，从来没有做过Vlog的人，
-至今电脑也没有安装过PR等剪辑软件的人，
-从新出发，用小白的思路，开发的一个字幕软件；
-暂时不会开源，等软件进一步成熟之后，在考虑开源；
-
-
+# Nosub Subtitle Editor
 
 ---
-- 本软件使用C++开发：
-- 本软件用到的第三方C++库及其依赖子库：
+- The Software is Developed with C++
+- Dependent Third Party Libraries:
 ---
 
-- QT 				一个跨平台C++ GUI库；
-- CpprestSDK 		微软出品的一个HTTP C++11的请求库；
-- FFmpeg          音视频编解码库；
-- WebRTC          Chrome实时语音视频的开源库；
-- SDL2            多媒体渲染库；
-- SDL2-ttf        字幕渲染库；
-- freetype        字体渲染库;(SDL2-ttf依赖)
-- libpng          PNG图片库;(SDL2-ttf依赖)
-- spdlog          日志记录库;
-- fmt             字符串格式化库;(spdlog依赖)
-
-
-
+- QT 		      A Cross Platform C + + GUI Library；
+- CpprestSDK 	  A HTTP Request Library Produced by Microsoft；
+- FFmpeg          Audio and Video Codec Library；
+- WebRTC          Chrome Real Time Audio And Video Library；
+- SDL2            Multimedia Rendering Library；
+- SDL2-ttf        Subtitle Rendering Library；
+- freetype        Font Rendering Library;(SDL2-ttf Dependent)
+- libpng          Png Image Library;(SDL2-ttf Dependent)
+- spdlog          Logging Library;
+- fmt             String Format Library;(spdlog Dependent)
 
 ---
 
 ```
 
-开发者： Mo
-官方QQ群：870178887
-国外用户：暂无联系方式；
+Developer： Mo
+Official QQ Group：870178887
+Foreign Users：No Contact Information；
 
 ```
-
