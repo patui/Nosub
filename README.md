@@ -1,6 +1,8 @@
 # Nosub Subtitle Editor[(DownLoad)](https://github.com/patui/Nosub/releases)
 
-[中文Readme](https://github.com/patui/Nosub/blob/master/README_zh.md)
+###### [中文Readme](https://github.com/patui/Nosub/blob/master/README_zh.md)
+
+###### [繁体中文Readme](https://github.com/patui/Nosub/blob/master/README_zh_tw.md)
 
 ---
 - The Software is Developed with C++
