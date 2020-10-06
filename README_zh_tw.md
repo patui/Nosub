@@ -57,4 +57,4 @@ Nosub軟件本身支持跨平台，只有等Windows平台版本足夠穩定之�
 - SDL2 多媒體渲染庫；
 - SDL2-ttf 字幕渲染庫;
 - Spdlog 日誌記錄庫;
-- MediaInofo 查看音視頻信息庫；
+- MediaInfo 查看音視頻信息庫；
