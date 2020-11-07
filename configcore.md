@@ -30,7 +30,7 @@ configcore.json的格式如下;
 > 百度语音的账号申请可以参考这篇：[百度语音](https://ai.baidu.com/ai-doc/REFERENCE/Ck3dwjgn3)
 
 ###### ALiYunOSSCloudFileStorage表示阿里云的对象存储;
-> 阿里云对象存储的账号申请可以参考这篇：[阿里云语音接入](https://www.aliyun.com/product/oss)
+> 阿里云对象存储的账号申请可以参考这篇：[阿里云对象存储OS接入](https://www.aliyun.com/product/oss)
 
 ###### BaiduTranslation表示百度的翻译引擎配置;
 > 百度翻的账号申请可以参考这篇：[百度翻译](https://api.fanyi.baidu.com/)
