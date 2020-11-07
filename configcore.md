@@ -38,6 +38,14 @@ configcore.json的格式如下;
 Name：界面显示的引擎名称；
 Language 暂时用不到，可以无视;
 
+
+怎么添加多个账号和支持不同的语音？
+这里以阿里语音举例：
+
+1.下载一个json编辑器，比如JSONedit
+2.参考下面的动画；
+![添加多个账号](https://github.com/patui/Nosub/blob/master/add_account.gif)
+
 ```
 {
 	"AudioFileASREngineGroup": {
