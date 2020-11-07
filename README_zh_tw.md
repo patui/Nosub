@@ -38,6 +38,10 @@
 4. 百度語音文件轉寫；
 ```
 
+語音文件轉寫價格以及賬號配置可以參考這篇下面的兩個：
+- configcore.json的配置文件說明：[configcore.json的配置文件說明](https://github.com/patui/Nosub/blob/master/configcore.md)
+- nosub beta7更新說明：[nosub beta7更新說明](https://github.com/patui/Nosub/releases/tag/1.0beta7)
+
 ###### （五）Nosub已經支持的字幕翻譯引擎列表：
 - [x] 百度翻譯引擎;
 
