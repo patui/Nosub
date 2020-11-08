@@ -62,3 +62,6 @@
 - SDL2-ttf 字幕渲染庫;
 - Spdlog 日誌記錄庫;
 - MediaInfo 查看音視頻信息庫；
+
+
+[Nosub开发者推荐的其它字幕制作平台](https://github.com/patui/Nosub/blob/master/推荐的字幕制作平台.md)
