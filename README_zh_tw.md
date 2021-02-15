@@ -35,7 +35,7 @@
 - nosub beta7更新說明：[nosub beta7更新說明](https://github.com/patui/Nosub/releases/tag/1.0beta7)
 
 ###### （五）Nosub已經支援的字幕翻譯引擎列表：
-- [x] 百度翻譯引擎;
+
 
 ###### （六）Nosub用到的開源庫：(截止到2020年10月1日)
 - QT 跨平台的GUI庫；（QT是一個綜合C++庫，不僅僅是GUI）
