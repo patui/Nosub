@@ -22,18 +22,13 @@
 ###### (iii) Nosub's core features.
 - [x] Audio noise reduction processing; (from WebRTC)
 - [x] Offline voice auto-cutting; (from WebRTC)
-- [x] Speech recognition to generate subtitles; (two modes, sentence recognition and file transcription)
+- [x] Speech recognition to generate subtitles; 
 - [x] Subtitle Snapshot; (solves the problem of lost subtitles from traditional subtitle software flashing)
 - [x] Video suppression; (asynchronous task queuing, batch suppression support)
 - [x] Subtitle translation; (asynchronous task queue, batch translation support)
 
 ###### (iv) List of speech recognition engines already supported by Nosub.
 ```
-One Sentence Recognition Engine Support List.
-1. Google Voice Engine.
-2. Baidu voice engine; (Baidu Extreme and Normal)
-3. The Taoiseach voice engine.
-
 List of voice file transcription engine support: (i.e. direct audio/video to subtitles)
 1. Alibaba Cloud voice file transcription.
 2. Transcription of the teleflight voice files.
@@ -42,7 +37,7 @@ List of voice file transcription engine support: (i.e. direct audio/video to sub
 ```
 
 ###### (v) List of subtitle translation engines already supported by Nosub.
-- [x] Baidu Translation Engine;
+
 
 ###### (vi) Open source libraries used by Nosub: (as of October 1, 2020)
 - QT Cross-platform GUI library; (QT is a comprehensive C++ library, not just a GUI)
