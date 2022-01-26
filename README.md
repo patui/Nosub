@@ -1,5 +1,3 @@
-Nosub Official Website: https://www.nosub.cn
-
 #### Nosub is a new captioning software [Download](https://github.com/patui/Nosub/releases)
 
 >Developer vision: to make captioning truly simple for newbies.
@@ -60,3 +58,8 @@ List of voice file transcription engine support: (i.e. direct audio/video to sub
 - SDL2-ttf subtitle rendering library;
 - Spdlog logging repository;
 - MediaInfo View audio and video information library.
+
+
+```
+Nosub Official Website: https://www.nosub.cn
+```
