@@ -1,3 +1,5 @@
+Nosub Official Website: https://www.nosub.cn
+
 #### Nosub is a new captioning software [Download](https://github.com/patui/Nosub/releases)
 
 >Developer vision: to make captioning truly simple for newbies.
