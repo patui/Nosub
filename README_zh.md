@@ -1,5 +1,7 @@
-#### Nosub是一个全新的字幕软件 [下载地址](https://github.com/patui/Nosub/releases)
+#### Nosbu V2新版正在开发中，V2的版本基于QT.5和C++20，完全cmake构建。
 
+
+#### Nosub是一个全新的字幕软件 [下载地址](https://github.com/patui/Nosub/releases)
 
 >开发者愿景：让新手上字幕真正变得简单；
 ---
