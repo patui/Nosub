@@ -1,3 +1,5 @@
+###### [Nosub V2新版B站持续更新中。。。](https://space.bilibili.com/392428129)
+
 #### Nosub是一個全新的字幕軟件 [下載地址](https://github.com/patui/Nosub/releases)
 
 >開發者願景：讓新手上字幕真正變得簡單；
