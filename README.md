@@ -1,3 +1,5 @@
+###### [Nosub V2新版B站持续更新中。。。](https://space.bilibili.com/392428129)
+
 #### Nosub is a new captioning software [Download](https://github.com/patui/Nosub/releases)
 
 >Developer vision: to make captioning truly simple for newbies.
