@@ -30,12 +30,12 @@ for the ultimate in subtitle editing and tweaking efficiency;
 
 
 ###### (i) Nosub's supported platforms:
-- [ x ] Windows
-- [ x ] MacOS (not supported yet, please be patient)
-- [ x ] Linux (not supported at the moment, please be patient)
+- [x] Windows
+- [x] MacOS (not supported yet, please be patient)
+- [x] Linux (not supported at the moment, please be patient)
 
 ###### (ii) Core components of Nosub:
-- [ x] Video Player
+- [x] Video Player
 - [x] Timeline (waveform charts)
 - [x] Subtitle editor; (subtitle cutting, merging, deleting, modifying, timing)
 
