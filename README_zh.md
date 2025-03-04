@@ -50,3 +50,6 @@ V2新版已经开始做减法，完全专注于字幕编辑软件，
 - Iconv   文字编码转换库;
 - SDL2 多媒体渲染库；
 - SDL2-ttf 字幕渲染库;
+
+
+![image](https://github.com/user-attachments/assets/43b3c170-5b8c-4e1b-8b44-246498dd58e2)
