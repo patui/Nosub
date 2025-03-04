@@ -1,3 +1,12 @@
+```
+官网: https://www.nosub.cn
+
+个人BLOG: https://www.nosub.net
+
+Nosub QQ群：870178887（仅限字幕相关）
+
+```
+
 ###### [Nosub V2新版B站持续更新中。。。](https://space.bilibili.com/392428129)
 
 #### Nosub是一個全新的字幕軟件 [下載地址](https://github.com/patui/Nosub/releases)
@@ -29,8 +38,8 @@ V2新版已經開始做減法，完全專註於字幕編輯軟件，
 
 ###### （一）Nosub的支持平臺：
 - [x] Windows
-- [ ] MacOS (暫時不支持，請耐心等待)
-- [ ] Linux (暫時不支持，請耐心等待)
+- [x] MacOS (Intel芯片请耐心等待)
+- [x] Linux
 
 ###### （二） Nosub的核心組件：
 - [x] 視頻播放器
@@ -44,5 +53,3 @@ V2新版已經開始做減法，完全專註於字幕編輯軟件，
 - FFmpeg 音視頻解碼庫；
 - Uchardet 文本編碼檢測庫；
 - Iconv   文字編碼轉換庫;
-- SDL2 多媒體渲染庫；
-- SDL2-ttf 字幕渲染庫;
