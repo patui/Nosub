@@ -1,5 +1,7 @@
 ```
 Nosub Official Website: https://www.nosub.cn
+
+Nosub Official Blog: https://www.nosub.net
 ```
 
 ###### [中文Readme](https://github.com/patui/Nosub/blob/master/README_zh.md)
@@ -31,8 +33,8 @@ for the ultimate in subtitle editing and tweaking efficiency;
 
 ###### (i) Nosub's supported platforms:
 - [x] Windows
-- [x] MacOS (not supported yet, please be patient)
-- [x] Linux (not supported at the moment, please be patient)
+- [x] MacOS (ARM-64)
+- [x] Linux 
 
 ###### (ii) Core components of Nosub:
 - [x] Video Player
