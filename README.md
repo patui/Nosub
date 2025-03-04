@@ -31,8 +31,8 @@ for the ultimate in subtitle editing and tweaking efficiency;
 
 ###### (i) Nosub's supported platforms:
 - [ x ] Windows
-- [ ] MacOS (not supported yet, please be patient)
-- [ ] Linux (not supported at the moment, please be patient)
+- [ x ] MacOS (not supported yet, please be patient)
+- [ x ] Linux (not supported at the moment, please be patient)
 
 ###### (ii) Core components of Nosub:
 - [ x] Video Player
