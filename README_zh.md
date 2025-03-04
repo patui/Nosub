@@ -1,3 +1,12 @@
+```
+官网: https://www.nosub.cn
+
+个人BLOG: https://www.nosub.net
+
+Nosub QQ群：870178887（仅限字幕相关）
+
+```
+
 ###### [Nosub V2新版B站持续更新中。。。](https://space.bilibili.com/392428129)
 
 #### Nosub是一个全新的字幕软件 [下载地址](https://github.com/patui/Nosub/releases)
