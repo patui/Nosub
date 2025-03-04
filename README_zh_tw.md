@@ -53,3 +53,7 @@ V2新版已經開始做減法，完全專註於字幕編輯軟件，
 - FFmpeg 音視頻解碼庫；
 - Uchardet 文本編碼檢測庫；
 - Iconv   文字編碼轉換庫;
+
+
+
+![image](https://github.com/user-attachments/assets/43b3c170-5b8c-4e1b-8b44-246498dd58e2)
