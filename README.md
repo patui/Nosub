@@ -50,3 +50,6 @@ for the ultimate in subtitle editing and tweaking efficiency;
 - Iconv text encoding conversion library.
 - SDL2 multimedia rendering library;
 - SDL2-ttf subtitle rendering library.
+
+
+![image](https://github.com/user-attachments/assets/43b3c170-5b8c-4e1b-8b44-246498dd58e2)
