@@ -23,9 +23,9 @@ V2新版已经开始做减法，完全专注于字幕编辑软件，
 
 
 ###### （一）Nosub的支持平台：
-- [x] Windows
-- [ ] MacOS (暂时不支持，请耐心等待)
-- [ ] Linux (暂时不支持，请耐心等待)
+- [x] Windows（Windows10，以及Windows 11）
+- [x] MacOS (暂时支持m芯片，Intel芯片的用户请耐心等待)
+- [x] Linux (完全支持)
 
 ###### （二） Nosub的核心组件：
 - [x] 视频播放器
