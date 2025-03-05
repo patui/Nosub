@@ -7,6 +7,8 @@ Nosub QQ群：870178887（仅限字幕相关）
 
 ```
 
+![2dc9e31c83ff9cea41b6f11b3a43f0da](https://github.com/user-attachments/assets/06f21407-f678-4e7e-bea3-d02d72d228fd)
+
 ###### [Nosub V2新版B站持续更新中。。。](https://space.bilibili.com/392428129)
 
 #### Nosub是一個全新的字幕軟件 [下載地址](https://github.com/patui/Nosub/releases)
