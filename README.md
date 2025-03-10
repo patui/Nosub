@@ -10,6 +10,8 @@ Nosub Official Blog: https://www.nosub.net
 
 ![2dc9e31c83ff9cea41b6f11b3a43f0da](https://github.com/user-attachments/assets/06f21407-f678-4e7e-bea3-d02d72d228fd)
 
+![A02-N](https://github.com/user-attachments/assets/871fda9a-ad32-4b87-8602-d99953178d5b)
+
 
 >Developer's vision: to make subtitling really easy for newbies;
 ---
