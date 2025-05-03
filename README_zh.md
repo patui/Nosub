@@ -51,12 +51,15 @@ V2新版已经开始做减法，完全专注于字幕编辑软件，
 
 ###### （三）Nosub V2版用到的开源库：
 - QT 跨平台的GUI库；（QT是一个综合C++库，不仅仅是GUI）
-- MPV 视频播放器；
+- LibMPV 视频播放器；
 - FFmpeg 音视频解码库；
 - Uchardet 文本编码检测库；
 - Iconv   文字编码转换库;
 - SDL2 多媒体渲染库；
 - SDL2-ttf 字幕渲染库;
+- OpenGL  渲染库
+- sherpa-onnx asr语音中间件;
+- spdlog 日志库.
 
 
 ![image](https://github.com/user-attachments/assets/43b3c170-5b8c-4e1b-8b44-246498dd58e2)
