@@ -50,12 +50,15 @@ for the ultimate in subtitle editing and tweaking efficiency;
 
 ###### (c) Nosub V2 version third-party library:
 - QT cross-platform GUI library ; (QT is a comprehensive C++ library , not just GUI)
-- MPV video player;
+- LibMPV video player;
 - FFmpeg audio and video decoding library ;
 - Uchardet text encoding detection library;
 - Iconv text encoding conversion library.
 - SDL2 multimedia rendering library;
 - SDL2-ttf subtitle rendering library.
+- OpenGL  rendering library
+- sherpa-onnx asr library;
+- spdlog log library.
 
 
 ![image](https://github.com/user-attachments/assets/43b3c170-5b8c-4e1b-8b44-246498dd58e2)
