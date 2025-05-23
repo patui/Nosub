@@ -65,6 +65,7 @@ V2新版已經開始做減法，完全專註於字幕編輯軟件，
 - OpenGL  渲染库
 - sherpa-onnx asr语音中间件;
 - spdlog 日志库.
+- demucs.cpp  Demucs v4的实现
 
 
 
