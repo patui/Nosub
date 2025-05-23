@@ -60,6 +60,7 @@ V2新版已经开始做减法，完全专注于字幕编辑软件，
 - OpenGL  渲染库
 - sherpa-onnx asr语音中间件;
 - spdlog 日志库.
+- demucs.cpp  Demucs v4的C++实现
 
 
 ![image](https://github.com/user-attachments/assets/43b3c170-5b8c-4e1b-8b44-246498dd58e2)
