@@ -33,7 +33,6 @@ for the ultimate in subtitle editing and tweaking efficiency;
 - Improve subtitle editor, support subtitle find and replace function;
 - Optimize the interaction logic of subtitle editor to improve the efficiency of subtitle editing;
 - Dramatically improve subtitle loading speed (parsing speed);
-- Cut down most of the non-core businesses, such as speech recognition, video compression, viewing video information, exporting MP3, etc.;
 - Simplify UI interaction logic;
 
 
