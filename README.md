@@ -48,17 +48,17 @@ for the ultimate in subtitle editing and tweaking efficiency;
 
 
 ###### (c) Nosub V2 version third-party library:
-- QT cross-platform GUI library ; (QT is a comprehensive C++ library , not just GUI)
-- LibMPV video player;
-- FFmpeg audio and video decoding library ;
-- Uchardet text encoding detection library;
-- Iconv text encoding conversion library.
-- SDL2 multimedia rendering library;
-- SDL2-ttf subtitle rendering library.
-- OpenGL  rendering library
-- sherpa-onnx asr library;
-- spdlog log library.
-- demucs.cpp  implements for Demucs v4
+- [Qt (跨平台 C++ 框架)](https://www.qt.io/) | [Qt GitHub (部分开源模块)](https://github.com/qt)
+- [libmpv (视频播放器核心)](https://github.com/mpv-player/mpv)
+- [FFmpeg (音视频解码库)](https://ffmpeg.org/) | [FFmpeg GitHub](https://github.com/FFmpeg/FFmpeg)
+- [uchardet (文本编码检测)](https://github.com/freedesktop/uchardet)
+- [iconv (文本编码转换)](https://www.gnu.org/software/libiconv/)
+- [SDL2 (多媒体渲染库)](https://www.libsdl.org/) | [SDL2 GitHub](https://github.com/libsdl-org/SDL)
+- [SDL2_ttf GitHub](https://github.com/libsdl-org/SDL_ttf)
+- [OpenGL (渲染库)](https://www.opengl.org/) 
+- [sherpa-onnx (ASR 语音识别)](https://github.com/k2-fsa/sherpa-onnx)
+- [spdlog (日志库)](https://github.com/gabime/spdlog)
+- [demucs.cpp (Demucs v4 C++ 实现)](https://github.com/sevagh/demucs.cpp)
 
 
 ![image](https://github.com/user-attachments/assets/43b3c170-5b8c-4e1b-8b44-246498dd58e2)
