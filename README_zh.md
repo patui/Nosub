@@ -52,7 +52,7 @@ V2新版已经开始做减法，完全专注于字幕编辑软件，
 - [Qt (跨平台 C++ 框架)](https://www.qt.io/) | [Qt GitHub (部分开源模块)](https://github.com/qt)
 - [libmpv (视频播放器核心)](https://github.com/mpv-player/mpv)
 - [FFmpeg (音视频解码库)](https://ffmpeg.org/) | [FFmpeg GitHub](https://github.com/FFmpeg/FFmpeg)
-- [uchardet (文本编码检测)](https://github.com/freedesktop/uchardet)
+- [uchardet (文本编码检测)](https://github.com/BYVoid/uchardet)
 - [iconv (文本编码转换)](https://www.gnu.org/software/libiconv/)
 - [SDL2 (多媒体渲染库)](https://www.libsdl.org/) | [SDL2 GitHub](https://github.com/libsdl-org/SDL)
 - [SDL2_ttf GitHub](https://github.com/libsdl-org/SDL_ttf)
