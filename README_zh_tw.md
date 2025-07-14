@@ -54,17 +54,17 @@ V2新版已經開始做減法，完全專註於字幕編輯軟件，
 
 
 ###### （三）Nosub V2版用到的開源庫：
-- QT 跨平臺的GUI庫；（QT是一個綜合C++庫，不僅僅是GUI）
-- libMPV 視頻播放器；
-- FFmpeg 音視頻解碼庫；
-- Uchardet 文本編碼檢測庫；
-- Iconv   文字編碼轉換庫;
-- SDL2 渲染库;
-- SDL2-ttf 字幕渲染库.
-- OpenGL  渲染库
-- sherpa-onnx asr语音中间件;
-- spdlog 日志库.
-- demucs.cpp  Demucs v4的实现
+- [Qt (跨平台 C++ 框架)](https://www.qt.io/) | [Qt GitHub (部分开源模块)](https://github.com/qt)
+- [libmpv (视频播放器核心)](https://github.com/mpv-player/mpv)
+- [FFmpeg (音视频解码库)](https://ffmpeg.org/) | [FFmpeg GitHub](https://github.com/FFmpeg/FFmpeg)
+- [uchardet (文本编码检测)](https://github.com/freedesktop/uchardet)
+- [iconv (文本编码转换)](https://www.gnu.org/software/libiconv/)
+- [SDL2 (多媒体渲染库)](https://www.libsdl.org/) | [SDL2 GitHub](https://github.com/libsdl-org/SDL)
+- [SDL2_ttf GitHub](https://github.com/libsdl-org/SDL_ttf)
+- [OpenGL (渲染库)](https://www.opengl.org/) 
+- [sherpa-onnx (ASR 语音识别)](https://github.com/k2-fsa/sherpa-onnx)
+- [spdlog (日志库)](https://github.com/gabime/spdlog)
+- [demucs.cpp (Demucs v4 C++ 实现)](https://github.com/sevagh/demucs.cpp)
 
 
 
