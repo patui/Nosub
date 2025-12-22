@@ -13,6 +13,8 @@ Nosub QQ群：870178887（仅限字幕相关）
 
 ![2dc9e31c83ff9cea41b6f11b3a43f0da](https://github.com/user-attachments/assets/06f21407-f678-4e7e-bea3-d02d72d228fd)
 
+![LLM](https://github.com/user-attachments/assets/cec4727a-0e0d-4e95-aac3-1ad8cf4ae31e)
+
 ![Ai- suggest](https://github.com/user-attachments/assets/2ee8db87-ba4d-4e3d-9190-c2edb974efa3)
 
 ![A02-N](https://github.com/user-attachments/assets/871fda9a-ad32-4b87-8602-d99953178d5b)
