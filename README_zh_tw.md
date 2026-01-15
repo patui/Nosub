@@ -7,17 +7,23 @@ Nosub QQ群：870178887（仅限字幕相关）
 
 ```
 
+###### [中文Readme](https://github.com/patui/Nosub/blob/master/README_zh.md)
+
+###### [繁体中文Readme](https://github.com/patui/Nosub/blob/master/README_zh_tw.md)
+
 ![MainUI](https://github.com/user-attachments/assets/957cf6a0-158d-4e20-93b9-66c261a686a2)
 
-
 ![LLM](https://github.com/user-attachments/assets/cec4727a-0e0d-4e95-aac3-1ad8cf4ae31e)
+![B01](https://github.com/user-attachments/assets/3dd3079b-756a-4964-96c6-9025277b8344)
 
+![MainUI-BLACK](https://github.com/user-attachments/assets/ab6f11e7-6a78-4e29-980d-bb798d20427a)
 
-![Ai- suggest](https://github.com/user-attachments/assets/2ee8db87-ba4d-4e3d-9190-c2edb974efa3)
+![B02](https://github.com/user-attachments/assets/a14284b5-880a-4cc8-8fff-1b57f12dd55a)
+
+![B03](https://github.com/user-attachments/assets/b21036f6-7b37-4a03-8451-cf8494280f8c)
 
 ![A02-N](https://github.com/user-attachments/assets/871fda9a-ad32-4b87-8602-d99953178d5b)
 
-![image](https://github.com/user-attachments/assets/e93ea0c3-5c8f-4a86-ab3d-4974a9be2a2d)
 
 
 ###### [Nosub V2新版B站持续更新中。。。](https://space.bilibili.com/392428129)
