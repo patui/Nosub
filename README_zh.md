@@ -7,6 +7,9 @@ Nosub QQ群：870178887（仅限字幕相关）
 
 ```
 
+![image](https://github.com/user-attachments/assets/43b3c170-5b8c-4e1b-8b44-246498dd58e2)
+
+
 ###### [Nosub V2新版B站持续更新中。。。](https://space.bilibili.com/392428129)
 
 #### Nosub是一个全新的字幕软件 [下载地址](https://github.com/patui/Nosub/releases)
@@ -72,6 +75,3 @@ V2新版已经开始做减法，完全专注于字幕编辑软件，
 - [sherpa-onnx (ASR 语音识别)](https://github.com/k2-fsa/sherpa-onnx)
 - [spdlog (日志库)](https://github.com/gabime/spdlog)
 - [demucs.cpp (Demucs v4 C++ 实现)](https://github.com/sevagh/demucs.cpp)
-
-
-![image](https://github.com/user-attachments/assets/43b3c170-5b8c-4e1b-8b44-246498dd58e2)
