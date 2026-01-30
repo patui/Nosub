@@ -4,6 +4,8 @@ Nosub Official Website: https://www.nosub.cn
 Nosub Official Blog: https://www.nosub.net
 ```
 
+![image](https://github.com/user-attachments/assets/43b3c170-5b8c-4e1b-8b44-246498dd58e2)
+
 ###### [中文Readme](https://github.com/patui/Nosub/blob/master/README_zh.md)
 
 ###### [繁体中文Readme](https://github.com/patui/Nosub/blob/master/README_zh_tw.md)
@@ -67,6 +69,3 @@ for the ultimate in subtitle editing and tweaking efficiency;
 - [sherpa-onnx (ASR 语音识别)](https://github.com/k2-fsa/sherpa-onnx)
 - [spdlog (日志库)](https://github.com/gabime/spdlog)
 - [demucs.cpp (Demucs v4 C++ 实现)](https://github.com/sevagh/demucs.cpp)
-
-
-![image](https://github.com/user-attachments/assets/43b3c170-5b8c-4e1b-8b44-246498dd58e2)
