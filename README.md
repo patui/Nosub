@@ -12,7 +12,7 @@ Nosub Official Blog: https://www.nosub.net
 
 ![MainUI](https://github.com/user-attachments/assets/957cf6a0-158d-4e20-93b9-66c261a686a2)
 
-![LLM](https://github.com/user-attachments/assets/421d317b-658d-4156-8646-4134b6b9ae28)
+![LLM](https://github.com/user-attachments/assets/cec4727a-0e0d-4e95-aac3-1ad8cf4ae31e)
 ![B01](https://github.com/user-attachments/assets/14701608-985d-4da7-ac87-59306db422b8)
 
 
