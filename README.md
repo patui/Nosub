@@ -18,6 +18,9 @@ Nosub Official Blog: https://www.nosub.net
 
 ![MainUI-BLACK](https://github.com/user-attachments/assets/ab6f11e7-6a78-4e29-980d-bb798d20427a)
 
+![MainUI-BLACK-Right](https://github.com/user-attachments/assets/9ad7fff1-4cc1-4e4e-bbe8-14931027dec1)
+
+
 ![B02](https://github.com/user-attachments/assets/a14284b5-880a-4cc8-8fff-1b57f12dd55a)
 
 ![B03](https://github.com/user-attachments/assets/b21036f6-7b37-4a03-8451-cf8494280f8c)
