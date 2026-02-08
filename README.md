@@ -68,7 +68,6 @@ Nosub QQ群：870178887（仅限字幕相关）
 - [OpenGL (渲染库)](https://www.opengl.org/)
 - [sherpa-onnx (ASR 语音识别)](https://github.com/k2-fsa/sherpa-onnx)
 - [spdlog (日志库)](https://github.com/gabime/spdlog)
-- [demucs.cpp (Demucs v4 C++ 实现)](https://github.com/sevagh/demucs.cpp)
 
 ---
 
