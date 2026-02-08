@@ -62,7 +62,7 @@ Nosub QQ群：870178887（仅限字幕相关）
 - [spdlog (日志库)](https://github.com/gabime/spdlog)
 - [demucs.cpp (Demucs v4 C++ 实现)](https://github.com/sevagh/demucs.cpp)
 
-
+QQ讨论群（最新的内测版本）
 
 ![image](https://github.com/user-attachments/assets/43b3c170-5b8c-4e1b-8b44-246498dd58e2)
 
