@@ -11,12 +11,20 @@ Nosub是一个字幕软件，以字幕编辑，调整为核心，支持离线语
 Nosub QQ群：870178887（仅限字幕相关）
 
 ```
+#### [软件下载](https://github.com/patui/Nosub/releases)
 
 #### 演示视频
 
 - [Nosub中使用DeepSeek大模型做字幕校对](https://www.bilibili.com/video/BV1S8rDBFEFX)
 
-#### [软件下载](https://github.com/patui/Nosub/releases)
+
+#### 图文教程
+
+- [Nosub中使用LLM大模型做字幕处理](https://nosub.net/posts/p/307)
+- [Nosub中使用Nvidia的parakeet英文，parakeet日语大模型](https://nosub.net/posts/p/262)
+- [Nosub中使用阿里的Sensevoice中文模型](https://nosub.net/posts/p/261)
+- [Nosub中使用小红书的fire-red-asr中文模型](https://nosub.net/posts/p/305)
+- [Nosub使用Nvidia显卡进行GPU加速推理](https://nosub.net/posts/p/263)
 
 
 ---
