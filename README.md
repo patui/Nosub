@@ -1,5 +1,9 @@
+>开发者愿景：让新手上字幕真正变得简单；
+
+
+
 ```
-官网: https://www.nosub.cn
+官网: https://www.nosub.cn 
 
 个人BLOG: https://www.nosub.net
 
@@ -8,10 +12,14 @@ Nosub QQ群：870178887（仅限字幕相关）
 ```
 
 
->开发者愿景：让新手上字幕真正变得简单；
+#### 演示视频
+
+- [Nosub中使用DeepSeek大模型做字幕校对](https://www.bilibili.com/video/BV1S8rDBFEFX)
+
+#### [软件下载](https://github.com/patui/Nosub/releases)
+
+
 ---
-
-
 
 ###### （一）Nosub的支持平台：
 - [x] Windows fox x64（Windows10，版本号 >=1809，QT6限制，以及Windows 11）
@@ -44,11 +52,6 @@ Nosub QQ群：870178887（仅限字幕相关）
 
 
 ![image](https://github.com/user-attachments/assets/43b3c170-5b8c-4e1b-8b44-246498dd58e2)
-
-
-###### [Nosub V2新版B站持续更新中。。。](https://space.bilibili.com/392428129)
-
-#### Nosub是一个全新的字幕软件 [下载地址](https://github.com/patui/Nosub/releases)
 
 主界面
 
