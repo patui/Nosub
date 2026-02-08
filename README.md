@@ -72,6 +72,9 @@ QQ讨论群（最新的内测版本）
 
 ![MainUI](https://github.com/user-attachments/assets/957cf6a0-158d-4e20-93b9-66c261a686a2)
 
+查找替换界面：
+![Find](https://github.com/user-attachments/assets/e39689fe-d7df-41a9-a461-8ab2ef299508)
+
 LLM大模型字幕校对
 
 ![LLM](https://github.com/user-attachments/assets/cec4727a-0e0d-4e95-aac3-1ad8cf4ae31e)
