@@ -48,7 +48,7 @@ Nosub QQ群：870178887（仅限字幕相关）
 - [x] MacOS (arm x64 M芯片，macOS 15+)
 - [x] Linux (x64  ldd (GNU libc) >=2.34)
 - [x] 国产银河麒麟V10SP1 (x64  ldd (GNU libc) >=2.31)
-- [ ] MacOS (Intel芯片)
+- [ ] MacOS (Intel芯片)（暂时没有开发机）
 - [ ] Windows fox arm 64 （暂时没有开发机）
 - [ ] Linux fox arm 64 （暂时没有开发机）
 
