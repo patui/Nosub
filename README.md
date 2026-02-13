@@ -21,6 +21,7 @@ Nosub QQ群：870178887（仅限字幕相关）
 #### 图文教程
 
 - [Nosub中使用LLM大模型做字幕处理](https://nosub.net/posts/p/307)
+- [Nosub中使用阿里的Fun-ASR-Nano-2512中文模型](https://nosub.net/posts/p/310)
 - [Nosub中使用Nvidia的parakeet英文，parakeet日语大模型](https://nosub.net/posts/p/262)
 - [Nosub中使用阿里的Sensevoice中文模型](https://nosub.net/posts/p/261)
 - [Nosub中使用小红书的fire-red-asr中文模型](https://nosub.net/posts/p/305)
