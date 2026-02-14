@@ -16,6 +16,7 @@ Nosub QQ群：870178887（仅限字幕相关）
 #### 演示视频
 
 - [Nosub中使用DeepSeek大模型做字幕校对](https://www.bilibili.com/video/BV1S8rDBFEFX)
+- [Nosub中字幕校对支持原稿模式和批量操作](https://www.bilibili.com/video/BV1RMZLBLEr8)
 
 
 #### 图文教程
