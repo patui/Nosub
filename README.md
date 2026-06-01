@@ -18,6 +18,8 @@ Nosub QQ群：870178887（仅限字幕相关）
 
 #### 演示视频
 
+
+- [Nosub开发记录EP32 LLM大模型翻译实测](https://www.bilibili.com/video/BV1DsV56bE8q)
 - [Nosub开发记录EP31 正式支持Qwen3-ASR和Qwen3-ForcedAligner](https://www.bilibili.com/video/BV1shRMBiE8R)
 - [Nosub中使用DeepSeek大模型做字幕校对](https://www.bilibili.com/video/BV1S8rDBFEFX)
 - [Nosub中字幕校对支持原稿模式和批量操作](https://www.bilibili.com/video/BV1RMZLBLEr8)
@@ -44,7 +46,7 @@ Nosub QQ群：870178887（仅限字幕相关）
 - 极高的字幕编辑，调整效率
 - 支持音频、视频切片导出
 - 集成单语、双语字幕合成功能
-- 集成sense-voice，fireredASR，whisper，parakeet，funasr-nano-asr等离线语音识别
+- 集成sense-voice，fireredASR，whisper，parakeet，funasr-nano-asr，qwen3-asr等离线语音识别
 - 支持中，英，粤语，日语，韩语等语言的语音识别
 - 支持LLM大模型智能断句，字幕校对，字幕翻译功能
 - 支持批量语音识别
