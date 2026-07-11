@@ -18,7 +18,7 @@ Nosub QQ群：870178887（仅限字幕相关）
 
 #### 演示视频
 
-
+- [Nosub开发记录EP33 原生支持双语字幕](https://www.bilibili.com/video/BV1TANA6iEJD)
 - [Nosub开发记录EP32 LLM大模型翻译实测](https://www.bilibili.com/video/BV1DsV56bE8q)
 - [Nosub开发记录EP31 正式支持Qwen3-ASR和Qwen3-ForcedAligner](https://www.bilibili.com/video/BV1shRMBiE8R)
 - [Nosub中使用DeepSeek大模型做字幕校对](https://www.bilibili.com/video/BV1S8rDBFEFX)
@@ -28,6 +28,7 @@ Nosub QQ群：870178887（仅限字幕相关）
 
 #### 图文教程
 
+- [在Nosub中使用ElevenLabs Scribe v2 在线ASR](https://nosub.net/posts/p/316)
 - [Nosub中使用LLM大模型做字幕处理](https://nosub.net/posts/p/307)
 - [Nosub中使用阿里的Fun-ASR-Nano-2512中文模型](https://nosub.net/posts/p/310) 
 - [Nosub中使用Nvidia的parakeet英文，parakeet日语大模型](https://nosub.net/posts/p/262)
