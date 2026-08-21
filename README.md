@@ -18,6 +18,7 @@ Nosub QQ群：870178887（仅限字幕相关）
 
 #### 演示视频
 
+- [Nosub开发记录EP34 全平台支持AI字幕配音](https://www.bilibili.com/video/BV1r68B6sErs/)
 - [Nosub开发记录EP33 原生支持双语字幕](https://www.bilibili.com/video/BV1TANA6iEJD)
 - [Nosub开发记录EP32 LLM大模型翻译实测](https://www.bilibili.com/video/BV1DsV56bE8q)
 - [Nosub开发记录EP31 正式支持Qwen3-ASR和Qwen3-ForcedAligner](https://www.bilibili.com/video/BV1shRMBiE8R)
