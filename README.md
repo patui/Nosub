@@ -18,6 +18,7 @@ Nosub QQ群：870178887（仅限字幕相关）
 
 #### 演示视频
 
+- [Nosub开发记录EP36 Nosub v4.0.0版本](https://www.bilibili.com/video/BV1JFHE6rEjC)
 - [Nosub开发记录EP35 正式支持MCP](https://www.bilibili.com/video/BV1yJt66fEgA)
 - [Nosub开发记录EP34 全平台支持AI字幕配音](https://www.bilibili.com/video/BV1r68B6sErs/)
 - [Nosub开发记录EP33 原生支持双语字幕](https://www.bilibili.com/video/BV1TANA6iEJD)
