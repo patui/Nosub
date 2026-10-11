@@ -18,6 +18,7 @@ Nosub QQ群：870178887（仅限字幕相关）
 
 #### 演示视频
 
+- [Nosub开发记录EP37 Nosub v4.0.4 修复Linux软件渲染黑屏](https://www.bilibili.com/video/BV1Zqpu6EEzj)
 - [Nosub开发记录EP36 Nosub v4.0.0版本](https://www.bilibili.com/video/BV1JFHE6rEjC)
 - [Nosub开发记录EP35 正式支持MCP](https://www.bilibili.com/video/BV1yJt66fEgA)
 - [Nosub开发记录EP34 全平台支持AI字幕配音](https://www.bilibili.com/video/BV1r68B6sErs/)
